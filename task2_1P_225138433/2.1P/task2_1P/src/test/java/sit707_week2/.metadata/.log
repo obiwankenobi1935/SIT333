@@ -1,0 +1,41 @@
+!SESSION 2026-03-25 20:18:13.284 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_AU
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/kavish/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/kavish/.eclipse_keyring -data /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task2_1P_225138433/2.1P/task2_1P/src/test/java/sit707_week2
+
+!ENTRY ch.qos.logback.classic 1 0 2026-03-25 20:18:14.470
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-03-25 20:18:15.455
+!MESSAGE Logback config file: /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task2_1P_225138433/2.1P/task2_1P/src/test/java/sit707_week2/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.core.resources 4 77 2026-03-25 20:23:06.435
+!MESSAGE Invalid project description for project 'task2_2P' at 'file:/Users/kavish/University/T1%202026/SIT333%20Software%20Quality%20and%20Testing/Tasks/tithub%20shit/SIT333/task2_1P_225138433/2.1P/task2_1P' 
+!SUBENTRY 1 unknown 0 0 2026-03-25 20:23:06.435
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2026-03-25 20:23:06.435
+!MESSAGE /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task2_1P_225138433/2.1P/task2_1P overlaps the workspace location: /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task2_1P_225138433/2.1P/task2_1P/src/test/java/sit707_week2
+
+!ENTRY org.eclipse.core.resources 4 77 2026-03-25 20:23:31.510
+!MESSAGE Invalid project description for project 'task2_2P' at 'file:/Users/kavish/University/T1%202026/SIT333%20Software%20Quality%20and%20Testing/Tasks/tithub%20shit/SIT333/task2_1P_225138433/2.1P/task2_1P' 
+!SUBENTRY 1 unknown 0 0 2026-03-25 20:23:31.510
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2026-03-25 20:23:31.510
+!MESSAGE /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task2_1P_225138433/2.1P/task2_1P overlaps the workspace location: /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task2_1P_225138433/2.1P/task2_1P/src/test/java/sit707_week2
+
+!ENTRY org.eclipse.core.resources 4 77 2026-03-25 20:26:18.940
+!MESSAGE Invalid project description for project 'task2_1P' at 'file:/Users/kavish/University/T1%202026/SIT333%20Software%20Quality%20and%20Testing/Tasks/tithub%20shit/SIT333/task2_1P_225138433/2.1P/task2_1P' 
+!SUBENTRY 1 unknown 0 0 2026-03-25 20:26:18.940
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2026-03-25 20:26:18.940
+!MESSAGE /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task2_1P_225138433/2.1P/task2_1P overlaps the workspace location: /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task2_1P_225138433/2.1P/task2_1P/src/test/java/sit707_week2
+
+!ENTRY org.eclipse.core.resources 4 77 2026-03-25 20:28:15.040
+!MESSAGE Invalid project description for project 'task2_1P' at 'file:/Users/kavish/University/T1%202026/SIT333%20Software%20Quality%20and%20Testing/Tasks/tithub%20shit/SIT333/task2_1P_225138433/2.1P/task2_1P' 
+!SUBENTRY 1 unknown 0 0 2026-03-25 20:28:15.040
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2026-03-25 20:28:15.040
+!MESSAGE /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task2_1P_225138433/2.1P/task2_1P overlaps the workspace location: /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task2_1P_225138433/2.1P/task2_1P/src/test/java/sit707_week2

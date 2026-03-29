@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task2_1P_225138433/2.1P/task2_1P"/>
+			<item value="/Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task2_1P_225138433/2.1P/task2_1P/src/test/java/sit707_week2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
