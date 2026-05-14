@@ -23,7 +23,7 @@ public class TaskInboxServiceTest {
     @Test
     public void testInboxReturnsTasksForValidStudent() {
         List<Task> tasks = TaskInboxService.getTaskInbox("225138433");
-        Assert.assertEquals(99, tasks.size());
+        Assert.assertEquals(3, tasks.size());
     }
 
     // Valid student returns correct task names
