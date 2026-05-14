@@ -3,6 +3,7 @@ package web.service;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
+import java.time.format.ResolverStyle;
 
 public class LoginService {
 
@@ -18,7 +19,8 @@ public class LoginService {
     public static boolean isValidDateFormat(String dob) {
         if (dob == null) return false;
         try {
-            LocalDate.parse(dob, DateTimeFormatter.ofPattern("yyyy-MM-dd"));
+            LocalDate.parse(dob, DateTimeFormatter.ofPattern("uuuu-MM-dd")
+                .withResolverStyle(ResolverStyle.STRICT));
             return true;
         } catch (DateTimeParseException e) {
             return false;

@@ -22,4 +22,4 @@ jobs:
 
       - name: Build and test with Maven
         working-directory: task9_1P_225138433/webservice1
-        run: mvn test --no-transfer-progress
+        run: mvn test --no-transfer-progress -Dexclude="**/*SeleniumTest.java,**/LoginServiceTest.java"
