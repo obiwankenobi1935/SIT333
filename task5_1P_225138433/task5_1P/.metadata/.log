@@ -11,3 +11,16 @@ Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse
 
 !ENTRY ch.qos.logback.classic 1 0 2026-04-18 03:12:34.584
 !MESSAGE Logback config file: /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task5_1P_225138433/task5_1P/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-05-13 01:14:34.236 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_AU
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/kavish/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/kavish/.eclipse_keyring -data /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task5_1P_225138433/task5_1P
+
+!ENTRY ch.qos.logback.classic 1 0 2026-05-13 01:14:35.560
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-05-13 01:14:36.693
+!MESSAGE Logback config file: /Users/kavish/University/T1 2026/SIT333 Software Quality and Testing/Tasks/tithub shit/SIT333/task5_1P_225138433/task5_1P/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
